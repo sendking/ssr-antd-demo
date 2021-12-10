@@ -20,7 +20,7 @@ const params = {
   }
 }
 
-function Slider (props: Props) {
+function Slider(props: Props) {
   const data = props.data[0]
   return (
     <div className={styles.swiperContainer}>
